@@ -1,2 +1,1 @@
-# test1
-for test
+burası düzeltildi.
